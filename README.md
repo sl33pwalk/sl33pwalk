@@ -35,9 +35,11 @@
 
 + Shell: zsh
 
++ Terminal: alacritty
+
 + WM: i3
 
-+ IDE: nvim + vscodium
++ IDE: astronvim 4 backend + vscodium 4 frontend
 ##
 
 ### *стек технологий*
