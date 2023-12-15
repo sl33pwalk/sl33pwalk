@@ -31,14 +31,18 @@
 
 ### сетапчик
 
-+ ОС: Arch Linux
++ OS: Arch Linux
 
-+ wm: i3
++ Shell: zsh
+
++ WM: i3
 
 + IDE: nvim + vscodium
 ##
 
 ### *стек технологий*
+
+или что умею/изучаю
 
 #### Фронтенд
 
